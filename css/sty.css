@@ -69,4 +69,24 @@ color: #ffffff;
 	margin: 10px 0;
 	width: 80%;
 }
+.footer{
+	clear: both;
+	text-align: center;
+	font-size: 18px;
+}
+.footer a{
+	text-decoration: none;
+	color: rgb(15,67,87);
+	margin-left: 25px;
+}
+.footer a:visited{
+	color: rgb(15,67,87);
+}
+.footer a:hover{
+	color: rgb(216, 17, 17);
+	text-decoration: underline;
+}
+.footer a:first-child{
+	margin-left: 10px;
+}
 
