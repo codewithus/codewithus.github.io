@@ -1,0 +1,72 @@
+﻿body{
+	margin: 0;
+}
+.container-main{
+
+	margin: 20px auto;
+	max-width: 978px;
+}
+
+h3{
+	margin:0;
+	font-family: serif;
+	font-size: 58px;
+	padding: 80px 50px;
+	text-align: center;
+}
+.controlers{
+	float: left;
+	width: 44%;
+	margin-left: 6%;
+	font-size: 18px;
+	color: #333333;
+	text-transform: capitalize;
+}
+.controlers label{
+	display: block;
+	width: 300px;
+}
+.controlers input{
+	display: inline-block;
+	width: 80%;
+	margin-bottom: 20px;
+}
+.controlers span{
+	margin-left: 20px;
+}
+.gradient-list{
+	float: left;
+	max-width: 30%;
+}
+textarea{
+	float: right;
+	width: 100%;
+	font-size: 16px;
+}
+table, th,td {
+border: 1px solid black;
+} 
+table tr td span{
+	display:inline-block;
+	width:25px;
+	height:20px;
+	vertical-align: middle;
+	margin: 0px 3px;
+	border: 1px solid #000;
+}
+.curr{
+background: #13998F;
+color: #ffffff;
+}
+.columnside{
+	float: right;
+	width: 19%;
+	text-transform: capitalize;
+	font-size: 18px;
+}
+.columnside input{
+	display: block;
+	margin: 10px 0;
+	width: 80%;
+}
+
